@@ -1,0 +1,1001 @@
+stopID,stopName,lat,lon
+10390,"19th Ave & Holloway Ave",37.7211899,-122.4751
+113183,"6th Ave & Fulton St",37.7739699,-122.46371
+114704,"Font Blvd & Chumasero Dr",37.71521,-122.47317
+114705,"Font Blvd & Cambon Dr",37.7159,-122.4742899
+114809,"Geneva Ave & Castelo St",37.7076999,-122.4184099
+116339,"Santos St & Brookdale Ave",37.7117,-122.4188599
+116344,"Santos St & Geneva Ave",37.7085,-122.4200799
+116346,"Santos St & Velasco Ave",37.7100299,-122.41943
+116565,"1725 Sunnydale Ave",37.7127899,-122.4195399
+116568,"1901 Sunnydale Ave",37.7132199,-122.4211499
+116575,"McLaren School",37.7135499,-122.42222
+117058,"West Portal Ave & Ulloa St",37.7408899,-122.46585
+117099,"Mission St & San Jose Ave",37.7059799,-122.46131
+1234,Dummy,10.00003,9.00004
+13003,"2nd St & Brannan St",37.78183,-122.39194
+13004,"2nd St & Brannan St",37.78185,-122.39223
+13006,"2nd St & Bryant St",37.78285,-122.39347
+13008,"2nd St & Folsom St",37.7853199,-122.39656
+13009,"2nd St & Harrison St",37.78453,-122.39532
+13010,"2nd St & Harrison St",37.7840999,-122.3950199
+13011,"2nd St & Howard St",37.78656,-122.39811
+13012,"2nd St & Market St",37.7890699,-122.40131
+13013,"2nd St & Stevenson St",37.7886199,-122.4006499
+13015,"2nd St & Townsend St",37.78062,-122.39068
+13025,"Battery St & Broadway",37.7983099,-122.4010899
+13026,"Battery St & Filbert St",37.8021599,-122.40184
+13030,"Battery St & Jackson St",37.79686,-122.40077
+13031,"Bay St & Midway St",37.80609,-122.4091599
+13060,"Balboa St & 35th Ave",37.7758999,-122.49458
+13061,"Balboa St & 37th Ave",37.77578,-122.4971999
+13063,"Balboa St & 40th Ave",37.7756399,-122.5004
+13065,"Balboa St & 43rd Ave",37.77548,-122.5036199
+13082,"Broadway & Columbus",37.79783,-122.4063399
+13084,"Broadway & Montgomery St",37.79813,-122.4039599
+13087,"Broadway & Stockton St",37.79759,-122.4082899
+13089,"Beale St & Mission St",37.7917499,-122.3966999
+13092,"Beach St & Mason St",37.80741,-122.4141199
+13093,"Beach St & Polk St",37.8063799,-122.42319
+13095,"Beach St & Stockton St",37.8078399,-122.41081
+13124,"3rd St & Folsom St",37.7839999,-122.3990999
+13128,"3rd St & Howard St",37.78495,-122.40025
+13136,"3rd St & Mission St",37.78637,-122.40211
+13144,"3rd St & Perry (Harrison) St",37.7826999,-122.39747
+13161,"4th St & Market St",37.7855299,-122.40567
+13164,"4th St & Townsend St",37.7768899,-122.39489
+13168,"5th St & Folsom St",37.7803099,-122.4035699
+13171,"5th St & Howard St",37.78123,-122.40474
+13173,"5th St & Mission St",37.78277,-122.40665
+13182,"6th Ave & Cornwall St",37.7846699,-122.46448
+13183,"6th Ave & Fulton St",37.7739699,-122.46371
+13187,"6th St & Harrison St",37.7773199,-122.4042399
+13200,"8th Ave & Cabrillo St",37.7750199,-122.4660899
+13212,"9th Ave & Irving St",37.76391,-122.46624
+13214,"9th Ave & Judah St",37.7620899,-122.46608
+13215,"9th Ave & Judah St",37.7620399,-122.46624
+13216,"9th Ave & Kirkham St",37.76041,-122.46615
+13217,"9th Ave & Kirkham St",37.7602399,-122.4659499
+13218,"9th Ave & Lawton St",37.75853,-122.46602
+13219,"9th Ave & Lawton St",37.75836,-122.46583
+13222,"9th Ave & Moraga St",37.7566799,-122.4658799
+13223,"9th Ave & Moraga St",37.7565099,-122.4656899
+13224,"9th Ave & Noriega St",37.7548,-122.46576
+13225,"9th Ave & Noriega St",37.7546299,-122.4655499
+13226,"9th Ave & Ortega St",37.75294,-122.46563
+13230,"10th Ave & Ortega St",37.7527199,-122.4664999
+13231,"10th Ave & Pacheco St",37.75086,-122.46638
+13232,"10th Ave & Pacheco St",37.7507,-122.46655
+13233,"10th Ave & Quintara St",37.7493299,-122.46626
+13234,"10th Ave & Quintara St",37.7491599,-122.4664299
+13235,"11th St & Bryant St",37.7698099,-122.4112999
+13236,"11th St & Folsom St",37.7721199,-122.4142199
+13237,"11th St & Folsom St",37.7715899,-122.4138099
+13238,"11th St & Harrison St",37.7708499,-122.4126299
+13239,"11th St & Harrison St",37.7703599,-122.4122699
+13240,"11th St & Howard St",37.7733299,-122.4157299
+13241,"11th St & Howard St",37.77283,-122.41538
+13243,"11th St & Mission St",37.7740399,-122.4168899
+13244,"11th St & Market St",37.7754999,-122.41852
+13245,"11th St & Market St",37.7753699,-122.41857
+13247,"14th Ave & Quintara St",37.7488699,-122.47074
+13266,"15th Ave & Taraval St",37.7431199,-122.4712999
+13267,"15th Ave & Taraval St",37.7430699,-122.4713999
+13268,"15th Ave & Ulloa St",37.7415299,-122.47119
+13269,"15th Ave & Ulloa St",37.74148,-122.4713
+13270,"15th Ave & West Portal Ave",37.7363899,-122.4703799
+13296,"16th St & Potrero Ave",37.7656999,-122.40765
+133012,"2nd St & Market St",37.7890699,-122.40131
+13311,"17th St & Castro St",37.7625199,-122.43487
+13313,"17th St & De Haro St",37.7647699,-122.40171
+133183,"6th Ave & Fulton St",37.7739699,-122.46371
+13319,"17th St & Wisconsin St",37.7649899,-122.39998
+13320,"17th St & Wisconsin St",37.7649299,-122.39928
+133247,"14th Ave & Quintara St",37.7488699,-122.47074
+133311,"17th St & Castro St",37.7625199,-122.43487
+133476,"24th St & Mission St",37.7523199,-122.41833
+13356,"19th Ave & Holloway Ave",37.7211099,-122.4753
+13358,"19th Ave & Holloway Ave",37.7210699,-122.47523
+13361,"19th Ave & Junipero Serra Blvd",37.7168899,-122.4722699
+133636,"Arballo Dr & Acevedo Ave",37.7198899,-122.48313
+13376,"19th Ave & N Randolph St",37.7162,-122.47167
+13385,"19th Ave & Randolph St",37.71428,-122.46962
+13387,"19th Ave & Randolph St",37.7144399,-122.4699999
+133927,"Cabrillo St & La Playa St",37.7733199,-122.50993
+134015,"Clay St & Drumm St",37.7954199,-122.397
+13403,"19th Ave & Winston Dr",37.72702,-122.4749399
+13404,"20th Ave & Buckingham Way",37.73042,-122.47588
+13405,"20th Ave & Buckingham Way",37.7302699,-122.4760299
+13406,"20th Ave & Macy'S-Stonestown",37.7288699,-122.47568
+13408,"20th Ave & Winston Dr",37.72687,-122.47594
+13409,"20th Ave & Winston Dr",37.7263399,-122.4761299
+13411,"20th St & 3rd St",37.7604099,-122.38845
+13412,"20th St & Arkansas St",37.7599599,-122.39808
+13413,"20th St & Arkansas St",37.7598699,-122.39836
+13425,"22nd Ave & Irving St",37.76368,-122.48027
+13426,"22nd Ave & Judah St",37.76146,-122.48011
+13427,"22nd Ave & Kirkham St",37.75959,-122.47998
+134277,"Geary Blvd & 33rd Ave",37.7797399,-122.49323
+13428,"22nd Ave & Lawton St",37.75775,-122.47985
+13429,"22nd Ave & Lincoln Way",37.7651899,-122.4803699
+13430,"22nd Ave & Moraga St",37.7558999,-122.4797099
+13431,"22nd Ave & Noriega St",37.75434,-122.47961
+134341,"Daly City Bart Station",37.7057599,-122.46927
+13441,"23rd Ave & Irving St",37.76313,-122.48148
+13442,"23rd Ave & Judah St",37.76161,-122.48138
+13443,"23rd Ave & Kirkham St",37.75974,-122.48124
+13444,"23rd Ave & Lawton St",37.75787,-122.48111
+13445,"23rd Ave & Lincoln Way",37.76503,-122.4816099
+13446,"23rd Ave & Moraga St",37.7560099,-122.4809899
+13447,"23rd Ave & Noriega St",37.7541399,-122.4808599
+13450,"23rd St & Kansas St",37.7544499,-122.40267
+13452,"23rd St & Rhode Island St",37.7545099,-122.40169
+13453,"23rd St & Utah St",37.75442,-122.4049399
+13454,"23rd St & Utah St",37.7543,-122.4052999
+13455,"23rd St & Vermont St",37.75448,-122.4039099
+13456,"23rd St & Vermont St",37.7543999,-122.40363
+13457,"23rd St & Wisconsin St",37.75481,-122.39856
+134735,"Fulton St & 8th Ave",37.7733199,-122.46574
+13476,"24th St & Mission St",37.7523199,-122.41833
+13477,"24th St & Mission St",37.75218,-122.4185499
+134823,"Kearny St & North Point St",37.8071799,-122.40721
+134824,"Kearny St & Pacific Ave",37.7973299,-122.40527
+13486,"24th St & Valencia St",37.75206,-122.42051
+134895,"Geneva Ave & Rio Verde St",37.7069399,-122.41553
+13504,"25th St & Connecticut St",37.75236,-122.3963399
+13505,"25th St & Connecticut St",37.75224,-122.3966199
+135056,"Howard St & Main St",37.7904099,-122.39352
+13507,"25th St & Dakota St",37.7524999,-122.39483
+13512,"25th St & Wisconsin St",37.75224,-122.3983099
+13513,"25th St & Wisconsin St",37.75216,-122.3982899
+135147,"Jackson St & Fillmore St",37.7925299,-122.43468
+13516,"26th St & De Haro St",37.7508599,-122.40015
+13517,"26th St & De Haro St",37.75075,-122.4000199
+135184,"Jones St & Beach St",37.8072499,-122.41737
+13522,"26th St & Rhode Island St",37.7507199,-122.40112
+13524,"26th St & Wisconsin St",37.7511099,-122.39866
+135335,"Main St & Mission St",37.7919799,-122.39496
+13537,"30th St & Dolores St",37.7422999,-122.4240299
+13538,"30th St & Dolores St",37.7421699,-122.42446
+13541,"30th St & Mission St",37.7423099,-122.42217
+135418,"Metro Terminal",37.7208799,-122.44665
+135448,"Balboa Park Bart",37.7208999,-122.44666
+13546,"32nd Ave & California St",37.7834199,-122.4924399
+13547,"32nd Ave & California St",37.7834299,-122.4925499
+13548,"32nd Ave & Clement St",37.782,-122.49233
+13549,"32nd Ave & Clement St",37.7817999,-122.4924199
+13550,"32nd Ave & Geary Blvd",37.7799399,-122.4922999
+13551,"33rd Ave & Anza St",37.77786,-122.49325
+13554,"33rd Ave & Balboa St",37.7759999,-122.4931299
+13555,"33rd Ave & Clement St",37.7815399,-122.4933499
+13556,"33rd Ave & Clement St",37.7814999,-122.4935099
+13557,"33rd Ave & Geary Blvd",37.7798199,-122.49323
+13558,"33rd Ave & Geary Blvd",37.7798199,-122.49339
+135603,"Mission St & Main St",37.7919699,-122.39493
+13571,"45th Ave & Balboa St",37.7752099,-122.5059599
+13573,"45th Ave & Cabrillo St",37.77354,-122.50583
+13574,"46th Ave & Irving St",37.7623799,-122.5061399
+13576,"46th Ave & Judah St",37.7605199,-122.50601
+13578,"46th Ave & Kirkham St",37.7586599,-122.5058899
+13580,"46th Ave & Lawton St",37.7567799,-122.5057499
+135828,"Ortega St & 48th Ave",37.7509299,-122.50751
+13583,"46th Ave & Lincoln Way",37.76405,-122.5062699
+13584,"46th Ave & Moraga St",37.7549299,-122.5056199
+135859,"Pacific Ave & Van Ness Ave",37.7947799,-122.4229
+13587,"46th Ave & Noriega St",37.7528399,-122.5054799
+13588,"46th Ave & Ortega St",37.75119,-122.50537
+13590,"46th Ave & Pacheco St",37.7493299,-122.5052399
+13592,"46th Ave & Quintara St",37.7474599,-122.5050999
+135926,"Phelan Loop",37.7234699,-122.45265
+13594,"46th Ave & Rivera St",37.7455899,-122.5049699
+13599,"46th Ave & Taraval St",37.7416899,-122.5045299
+13600,"46th Ave & Ulloa St",37.7399999,-122.5045799
+13601,"46th Ave & Ulloa St",37.73983,-122.50441
+13602,"46th Ave & Vicente St",37.7381399,-122.5044399
+13603,"46th Ave & Vicente St",37.73797,-122.50427
+13605,"47th Ave & Noriega St",37.75278,-122.50636
+136089,"Presidio Ave & California St",37.7873699,-122.44688
+13612,"5th St North & Market St",37.7840099,-122.4082099
+13629,"Alemany At St Mary'S Park Overpass",37.7322899,-122.42059
+13636,"Arballo Dr & Acevedo Ave",37.7198899,-122.48313
+13637,"Arballo Dr & Gonzalez Dr",37.71734,-122.4833099
+13638,"Arballo Dr & Garces Dr",37.7163299,-122.4833499
+13639,"Arballo Dr & Higuera Ave",37.7186099,-122.48321
+13640,"Arballo Dr & Pinto Dr",37.7207599,-122.48308
+13644,"Arguello Blvd & California St",37.78556,-122.4592499
+13647,"Arguello Blvd & Euclid Ave",37.78374,-122.45896
+136497,"Steuart St & Mission St",37.7933499,-122.39323
+136498,"Steuart St & Mission St",37.7932399,-122.39332
+13652,"Arkansas St & 22nd St",37.75745,-122.39804
+13653,"Arkansas St & Madera St",37.7559699,-122.3978899
+136575,"McLaren School",37.7135499,-122.42222
+136606,"Sutter St & Sansome St",37.7902999,-122.40067
+136739,"West Portal Station",37.7409599,-122.4658
+136932,"Wawona St & 46th Ave",37.7361299,-122.50435
+137058,"West Portal Ave & Ulloa St",37.7408899,-122.46585
+137099,"Mission St & San Jose Ave",37.7059799,-122.46131
+13715,"Broad St & Capitol Ave",37.7131899,-122.45892
+13716,"Broad St & Capitol Ave",37.71315,-122.4591599
+13717,"Broad St & Orizaba Ave",37.71318,-122.4623299
+13718,"Broad St & Plymouth Ave",37.7132199,-122.45593
+13719,"Broad St & Plymouth Ave",37.7131599,-122.45618
+137227,"Market & Steuart",37.7944499,-122.39492
+13723,"Bryant St & 4th St",37.77947,-122.3980699
+13724,"Bryant St & 5th St",37.7779499,-122.39995
+13725,"Bryant St & 6th St",37.7761599,-122.40223
+137518,"24th St & Potrero Ave",37.7530699,-122.40621
+137522,"Geneva St. & Schwerin St.",37.7062999,-122.41308
+137543,"Clement & 14 Ave",37.7824999,-122.47308
+137563,"McAllister St. & Jones",37.7811699,-122.41219
+13768,"228 Bayshore Blvd",37.74472,-122.4044299
+13769,"380 Bayshore Blvd",37.7413299,-122.40669
+13771,"Bayshore Blvd & Alemany Blvd",37.7377299,-122.4069999
+13772,"Bayshore Blvd & Arleta Ave",37.7122399,-122.40261
+13773,"Bayshore Blvd & Augusta St",37.73425,-122.40558
+13775,"Bayshore Blvd & Boutwell St",37.73488,-122.40588
+13778,"Bayshore Blvd & Cortland Ave",37.73986,-122.4067699
+13779,"Bayshore Blvd & Cortland Ave",37.73967,-122.4071199
+13782,"Bay Shore Blvd & Jerrold Ave",37.74712,-122.40351
+13783,"Bayshore Blvd & Leland Ave",37.71114,-122.4037799
+13784,"Bayshore Blvd & Marengo St",37.7387,-122.4068899
+13785,"Bayshore Blvd & Oakdale Ave",37.74332,-122.4052299
+13786,"Bayshore Blvd & Oakdale Ave",37.7428799,-122.40519
+13788,"Bayshore Blvd & Silver Ave",37.73321,-122.40472
+13789,"Bay Shore Blvd & Silver Ave",37.7329599,-122.4047899
+13793,"Bayshore Blvd & Visitacion Ave",37.71062,-122.4038899
+13797,"95 Buckingham Way",37.72596,-122.47688
+13798,"95 Buckingham Way",37.72597,-122.47714
+13799,"175 Buckingham Way",37.7259499,-122.47881
+13800,"197 Buckingham Way",37.72587,-122.47879
+13801,"280 Buckingham Way",37.7269099,-122.4800399
+13802,"280 Buckingham Way",37.7271699,-122.4800499
+13803,"Buckingham Way & Winston Dr",37.72803,-122.4791299
+13815,"Bush St & Montgomery St",37.79096,-122.4020799
+13822,"California St & 4th Ave",37.7853499,-122.46229
+13823,"California St & 4th Ave",37.7851799,-122.46257
+13824,"California St & 6th Ave",37.7850199,-122.46494
+13825,"California St & 6th Ave",37.7848999,-122.46471
+13827,"California St & 8th Ave",37.7846299,-122.46682
+13828,"California St & 10th Ave",37.78467,-122.4691599
+13830,"California St & 10th Ave",37.78455,-122.4689599
+13831,"California St & 12th Ave",37.78459,-122.4708499
+13832,"California St & 12th Ave",37.7844499,-122.4711
+13833,"California St & 16th Ave",37.7843899,-122.47523
+13834,"California St & 16th Ave",37.78425,-122.4754999
+13835,"California St & 19th Ave",37.78424,-122.4784499
+13836,"California St & 19th Ave",37.78411,-122.4787099
+13837,"California St & 22nd Ave",37.7841,-122.4816599
+13838,"California St & 22nd Ave",37.7839399,-122.48189
+13839,"California St & 25th Ave",37.78395,-122.4848199
+13840,"California St & 25th Ave",37.7838099,-122.48529
+13841,"California St & 28th Ave",37.7837999,-122.48807
+13842,"California St & 28th Ave",37.7836599,-122.48846
+13843,"California St & 30th Ave",37.7836699,-122.49051
+13844,"California St & 30th Ave",37.7835799,-122.49009
+13845,"California St & Arguello Blvd",37.7856999,-122.45929
+13846,"California St & Arguello Blvd",37.78566,-122.4590399
+13847,"California St & Baker St",37.78774,-122.4436299
+13848,"California St & Baker St",37.7876199,-122.44338
+13851,"California St & Battery St",37.7931399,-122.39987
+13852,"California St & Cherry St",37.78604,-122.4568299
+13853,"California St & Cherry St",37.78597,-122.4563299
+13858,"California St & Divisadero St",37.7880899,-122.44087
+13859,"California St & Divisadero St",37.7879499,-122.44072
+13861,"California St & Fillmore St",37.7889299,-122.43415
+13862,"California St & Fillmore St",37.7887899,-122.43392
+13867,"California St & Hyde St",37.7910199,-122.41756
+13875,"California St & Laurel St",37.7869199,-122.44996
+13876,"California St & Laurel St",37.7867099,-122.45026
+13879,"California St & Maple St",37.7862499,-122.45521
+13884,"California St & Pierce St",37.7885199,-122.43748
+13885,"California St & Pierce St",37.7884599,-122.43681
+13886,"California St & Park Presidio Blvd",37.7845199,-122.47325
+13887,"California St & Park Presidio Blvd",37.7843699,-122.47276
+13892,"California St & Presidio Ave",37.7873299,-122.44691
+13893,"California St & Presidio Ave",37.7871499,-122.44688
+13896,"California St & Spruce St",37.7865,-122.4532799
+13897,"California St & Spruce St",37.78633,-122.4535199
+13909,"Carl St & Cole St",37.7658599,-122.4498
+13911,"Carl St & Cole St",37.7657499,-122.45013
+13912,"Carl St & Hillway Ave",37.7649999,-122.45656
+13913,"Carl St & Hillway Ave",37.7649299,-122.45651
+13914,"Carl St & Stanyan St",37.7655,-122.4525899
+13915,"Carl St & Stanyan St",37.7653699,-122.45293
+13923,"Cabrillo St & 6th Ave",37.7754499,-122.4639699
+13924,"Cabrillo St & 47th Ave",37.7734199,-122.50777
+13927,"Cabrillo St & La Playa St",37.7733199,-122.50993
+13931,"C. Chavez St & Folsom St",37.7483399,-122.4139799
+13935,"Cesar Chavez St & Mission St",37.74823,-122.4183699
+13936,"C. Chavez St & South Van Ness Ave",37.74831,-122.4157599
+13941,"Chestnut St & Fillmore St",37.8009099,-122.43618
+13984,"Church St & 16th St",37.7646199,-122.4287199
+13985,"Church St & 16th St",37.7643799,-122.4286099
+13987,"Church St & 18th St",37.76147,-122.42842
+13994,"Church St & 22nd St",37.75479,-122.42766
+13995,"Church St & 24th St",37.7517999,-122.4275
+13996,"Church St & 24th St",37.7515899,-122.42735
+13997,"Church St & 27th St",37.7469899,-122.4270699
+13998,"Church St & 27th St",37.74678,-122.42689
+13999,"Church St & 29th St",37.74359,-122.42658
+14000,"Church St & 30th St",37.7422199,-122.42646
+14002,"Church St & Clipper St",37.74939,-122.42729
+14003,"Church St & Clipper St",37.74918,-122.42712
+14004,"Church St & Day St",37.7428099,-122.4266499
+14006,"Church St & Duboce Ave",37.7693,-122.42909
+14015,"Clay St & Drumm St",37.7954199,-122.397
+14016,"Clay St & Franklin St",37.7919099,-122.42446
+14017,"Clay St & Front St",37.7951,-122.3990199
+14018,"Clay St & Grant Ave",37.7942599,-122.40597
+14019,"Clay St & Hyde St",37.79276,-122.4178999
+14020,"Clay St & Jones St",37.7931699,-122.41462
+14021,"Clay St & Kearny St",37.79448,-122.4044099
+14022,"Clay St & Larkin St",37.7925299,-122.41959
+14023,"Clay St & Leavenworth St",37.79296,-122.4162999
+14024,"Clay St & Mason St",37.79365,-122.4108199
+14025,"Clay St & Montgomery St",37.7946799,-122.40277
+14026,"Clay St & Polk St",37.7923899,-122.42071
+14027,"Clay St & Powell St",37.7937899,-122.40977
+14028,"Clay St & Sansome St",37.7948199,-122.40112
+14029,"Clay St & Stockton St",37.7940799,-122.40756
+14030,"Clay St & Taylor St",37.79336,-122.4127399
+14031,"Clay St & Van Ness Ave",37.7921099,-122.42291
+14039,"Clement St & 2nd Ave",37.78309,-122.4598199
+14040,"Clement St & 4th Ave",37.7830899,-122.46257
+14041,"Clement St & 4th Ave",37.7829899,-122.46195
+14042,"Clement St & 6th Ave",37.783,-122.4647899
+14043,"Clement St & 6th Ave",37.7828599,-122.46433
+14044,"Clement St & 8th Ave",37.7827999,-122.46616
+14045,"Clement St & 10th Ave",37.7827999,-122.469
+14046,"Clement St & 10th Ave",37.7826999,-122.46837
+14047,"Clement St & 12th Ave",37.7827,-122.4711599
+14048,"Clement St & 12th Ave",37.7825799,-122.47097
+14073,"Clayton St & Carl St",37.76629,-122.44778
+14074,"Clayton St & Carl St",37.7661499,-122.4479399
+14078,"Clayton St & Frederick St",37.76694,-122.44792
+14081,"Clayton St & Parnassus Ave",37.76541,-122.44761
+14082,"Clayton St & Parnassus Ave",37.76523,-122.44776
+14083,"Cambon Dr & Castelo St",37.71744,-122.47427
+14084,"Cambon Dr & Castelo Ave",37.71726,-122.47443
+14086,"Cambon Dr & Font Blvd",37.7160199,-122.4744399
+14101,"Columbus Ave & Broadway",37.7981199,-122.4068999
+14108,"Columbus Ave & Green St",37.79939,-122.40872
+14111,"Columbus Ave & Kearny St",37.7973199,-122.40574
+14119,"Columbus Ave & Union St",37.8004999,-122.41036
+14120,"Columbus Ave & Union St",37.8003799,-122.41044
+14123,"Connecticut St & 17th St",37.7649799,-122.3976599
+14124,"Connecticut St & 17th St",37.76475,-122.3977799
+14125,"Connecticut St & 18th St",37.76261,-122.39757
+14126,"Connecticut St & 18th St",37.76243,-122.39741
+14127,"Connecticut St & 19th St",37.7611499,-122.3973299
+14207,"Crespi Dr & Varela Ave",37.7200999,-122.47594
+14211,"Fulton St & 33rd Ave",37.7722299,-122.49318
+14212,"Fulton St & 33rd Ave",37.7721,-122.4928799
+14213,"Fulton St & 36th Ave",37.7720799,-122.49634
+14215,"Fulton St & 37th Ave",37.77192,-122.4967899
+14218,"Fulton St & 40th Ave",37.7717899,-122.49991
+14221,"Fulton St & 46th Ave",37.77159,-122.5070399
+14222,"Fulton St & 46th Ave",37.7714799,-122.50631
+14223,"Fulton St & Arguello Blvd",37.77437,-122.4585099
+14224,"Fulton St & Arguello Blvd",37.77428,-122.4579999
+14225,"Fulton St & Clayton St",37.77541,-122.4500699
+14226,"Fulton St & Clayton St",37.7753699,-122.44929
+14227,"Fulton St & Great Hwy",37.7714199,-122.51079
+14228,"Fulton St & La Playa St",37.77134,-122.50939
+14229,"Fulton St & Masonic Ave",37.7758999,-122.44627
+14230,"Fulton St & Masonic Ave",37.7756799,-122.44683
+14231,"Fulton St & Park Presidio Blvd",37.77319,-122.4721799
+14232,"Fulton St & Park Presidio",37.7730499,-122.47199
+14233,"Fulton St & Parker Ave",37.7749999,-122.45324
+14234,"Fulton St & Shrader St",37.7749899,-122.45238
+14235,"Fulton St & Stanyan St",37.7747599,-122.45452
+14236,"Fulton St & Stanyan St",37.7748,-122.4548399
+14239,"Golden Gate Ave & Hyde St",37.78166,-122.4150899
+14240,"Golden Gate Ave & Jones St",37.7820699,-122.41193
+14241,"Golden Gate & Leavenworth St",37.7818299,-122.414
+14242,"Golden Gate Ave & Polk St",37.78123,-122.4183299
+14243,"Golden Gate Ave & Van Ness Ave",37.7809499,-122.42066
+14277,"Geary Blvd & 33rd Ave",37.7797399,-122.49323
+14278,"Geary Blvd & 33rd Ave",37.7797999,-122.49344
+14334,"Castro St & Market St",37.7621399,-122.43519
+14341,"Daly City Bart Station",37.7057599,-122.46927
+14342,"14 Dakota St",37.75376,-122.39576
+14343,"101 Dakota St",37.75374,-122.39565
+14345,"Dakota St & 25th St",37.7526799,-122.3946799
+14347,"Davis St & Pine St",37.7926099,-122.39753
+14350,"De Haro St & 16th St",37.7660599,-122.40163
+14436,"Division St & Bryant St",37.7693399,-122.4107399
+14437,"Division St & Rhode Island St",37.76976,-122.4031499
+14438,"Division St & Townsend St",37.7698899,-122.4032999
+14447,"Duboce Ave & Church St",37.7694699,-122.42941
+14448,"Duboce Ave & Church St",37.7694099,-122.4294
+14501,"The Embarcadero & Bay St",37.80695,-122.40628
+14502,"The Embarcadero & Bay St",37.8066299,-122.4060299
+14503,"The Embarcadero & Broadway",37.7995499,-122.3978699
+14504,"The Embarcadero & Broadway",37.7988999,-122.3974299
+14506,"The Embarcadero & Brannan St",37.7843599,-122.38814
+14509,"The Embarcadero & Folsom St",37.7904799,-122.3896899
+14510,"Embarcadero Folsom St",37.79075,-122.38984
+14513,"The Embarcadero & Ferry Term",37.79511,-122.39386
+14515,"The Embarcadero & Greenwich St",37.8032599,-122.4011099
+14516,"The Embarcadero & Greenwich St",37.80296,-122.40103
+14517,"The Embarcadero & Green St",37.8012599,-122.3993699
+14518,"The Embarcadero & Green St",37.80061,-122.39892
+14529,"The Embarcadero & Sansome St",37.8050199,-122.4033099
+14530,"Pier 39",37.8083499,-122.41029
+14532,"The Embarcadero & Washington St",37.7970899,-122.3956699
+14534,"The Embarcadero & Washington St",37.7963599,-122.3951799
+14544,"Eucalyptus Dr & 19th Ave",37.7311599,-122.47474
+14545,"Eucalyptus Dr & 19th Ave",37.7310399,-122.4745399
+14546,"Eucalyptus Dr & Junipero Serra",37.73099,-122.47244
+14580,"Fell St & Gough St",37.7759699,-122.42302
+14624,"Fillmore St & Jackson St",37.7923899,-122.4346099
+14635,"Fillmore St & Pine St",37.7880499,-122.4335599
+14636,"Fillmore St & Pine St",37.7877199,-122.4336499
+14637,"Fillmore St & Sacramento St",37.78993,-122.4341
+14638,"Fillmore St & Sacramento St",37.78974,-122.43395
+14657,"Folsom St & 3rd St",37.78399,-122.3987499
+14658,"Folsom St & 4th St",37.7821499,-122.40086
+14659,"Folsom St & 5th St",37.78039,-122.4030999
+14660,"Folsom St & 6th St",37.7786299,-122.40532
+14661,"Folsom St & 7th St",37.77664,-122.4078499
+14662,"Folsom St & 8th St",37.7751199,-122.40977
+14663,"Folsom St & 9th St",37.77389,-122.4113199
+14664,"Folsom St & 11th St",37.7719899,-122.41373
+14665,"Folsom St & 11th St",37.7717399,-122.4143
+14666,"Folsom St & 14th St",37.76846,-122.4156699
+14667,"Folsom St & 14th St",37.76846,-122.41553
+14668,"Folsom St & 16th St",37.76557,-122.41524
+14669,"Folsom St & 16th St",37.76523,-122.41542
+14671,"Folsom St & 18th St",37.76222,-122.41491
+14672,"Folsom St & 18th St",37.7618599,-122.4150899
+14675,"Folsom St & 22nd St",37.75595,-122.41433
+14676,"Folsom St & 22nd St",37.7554599,-122.4144799
+14677,"Folsom St & 24th St",37.7527599,-122.41402
+14680,"Folsom St & 25th St",37.751,-122.41405
+14681,"Folsom St & 25th St",37.7508299,-122.4138399
+14702,"Font Blvd & Arballo Dr",37.7217599,-122.4821499
+14704,"Font Blvd & Chumasero Dr",37.71521,-122.47317
+14705,"Font Blvd & Cambon Dr",37.7158999,-122.4742899
+14706,"Font Blvd & Cambon Dr",37.7158999,-122.4745799
+14707,"Font Blvd & Gonzalez Dr",37.71678,-122.47576
+14709,"Font Blvd & Juan Bautista Cir",37.7176999,-122.47708
+14710,"Font Blvd & Serrano Dr",37.7196,-122.47961
+14712,"Font Blvd & Tapia Dr",37.72068,-122.4809
+14715,"Frederick St & Ashbury St",37.76726,-122.4466899
+14716,"Frederick St & Ashbury St",37.7671499,-122.44646
+14717,"Frederick St & Clayton St",37.7671,-122.4479199
+14726,"Ferry Plaza",37.7940499,-122.39345
+14727,"Ferry Plaza",37.7938999,-122.39345
+14729,"Marina Blvd & Laguna St",37.8051199,-122.43218
+14730,"Fulton St & 4th Ave",37.77394,-122.4619799
+14731,"Fulton St & 4th Ave",37.7738399,-122.46125
+14732,"Fulton St & 6th Ave",37.7736699,-122.46411
+14733,"Fulton St & 6th Ave",37.7735299,-122.46384
+14734,"Fulton St & 8th Ave",37.7734699,-122.46605
+14735,"Fulton St & 8th Ave",37.77332,-122.4657399
+14736,"Fulton St & 10th Ave",37.77335,-122.4683899
+14737,"Fulton St & 10th Ave",37.77325,-122.4676099
+14742,"Fulton St & 18th Ave",37.77296,-122.4767799
+14746,"Fulton St & 22nd Ave",37.77276,-122.4813399
+14747,"Fulton St & 22nd Ave",37.77266,-122.4806099
+14748,"Fulton St & 25th Ave",37.7725999,-122.48452
+14749,"Fulton St & 25th Ave",37.7725099,-122.4838
+14751,"Fulton St & 28th Ave",37.77235,-122.4871699
+14753,"Fulton St & 30th Ave",37.77224,-122.4891899
+14780,"Great Hwy & Ocean Beach",37.76737,-122.51046
+14787,"Glen Park Station",37.7325299,-122.43342
+14788,"Glen Park Station",37.7323999,-122.43385
+14789,"Gonzalez Dr & Cardenas Ave",37.7190999,-122.4756299
+14790,"Gonzalez Dr & Font Blvd",37.71669,-122.47591
+14791,"Gonzalez Dr & Josepha Ave",37.7159799,-122.47717
+14795,"1650 Geneva Ave",37.7118699,-122.4281899
+14796,"1650 Geneva Ave",37.71174,-122.42829
+14798,"1721 Geneva Ave",37.7110799,-122.4262699
+14799,"1701 Geneva Ave",37.71072,-122.42576
+14803,"Balboa Park Bart Station",37.7210499,-122.4472199
+14805,"Balboa Park Bart Station",37.72086,-122.44723
+14808,"Geneva Ave & Castelo St",37.7078999,-122.4182299
+14809,"Geneva Ave & Castelo St",37.7076999,-122.4184099
+14810,"Geneva Ave & Cayuga Ave",37.7189299,-122.4435499
+14811,"Geneva Ave & Cayuga Ave",37.71872,-122.44355
+14816,"Geneva Ave & Delano Ave",37.72007,-122.44526
+14818,"Kearny St & Bush St",37.7909999,-122.4039799
+14819,"Kearny St & California St",37.79288,-122.40436
+14820,"Kearny St & Clay St",37.7947,-122.40474
+14821,"Kearny St & Geary Blvd",37.7882,-122.40346
+14822,"Kearny St & Jackson St",37.7961299,-122.4050299
+14823,"Kearny St & North Point St",37.8071799,-122.40721
+14824,"Kearny St & Pacific Ave",37.7973299,-122.40527
+14826,"Kearny St & Sutter St",37.7897499,-122.40372
+14842,"La Playa St & Cabrillo St",37.7732099,-122.5099899
+14843,"La Playa St & Cabrillo St",37.7732099,-122.51006
+14844,"La Playa St & Fulton St",37.7716899,-122.50984
+14850,"Larkin St & McAllister St",37.78057,-122.41686
+14873,"Legion Of Honor",37.7850199,-122.49959
+14874,"Legion Of Honor",37.78498,-122.4996899
+14879,"Geneva Ave & Delano Ave",37.7202799,-122.4453599
+14881,"Geneva Ave & Howth St",37.7221199,-122.4499799
+14882,"Geneva Ave & Howth St",37.7219799,-122.4500699
+14883,"Geneva Ave & Madrid St",37.7147699,-122.4375899
+14884,"Geneva Ave & Madrid St",37.7151399,-122.4380299
+14886,"Geneva Ave & Mission St",37.7164699,-122.44087
+14888,"Geneva Ave & Munich St",37.71295,-122.43303
+14889,"Geneva Ave & Moscow St",37.7133299,-122.4339599
+14890,"Geneva Ave & Naples St",37.71425,-122.43604
+14891,"Geneva Ave & Naples St",37.71403,-122.43596
+14892,"Geneva Ave & Paris St",37.7157099,-122.4392999
+14893,"Geneva Ave & Paris St",37.71568,-122.43961
+14894,"Geneva Ave & Prague St",37.71283,-122.4318
+14895,"Geneva Ave & Rio Verde St",37.7069399,-122.41553
+14899,"Geneva Ave & Santos St",37.7083699,-122.4199499
+14900,"Geneva Ave & Santos St",37.7084799,-122.42035
+14905,"Gough St & Sacramento St",37.7910399,-122.42577
+14916,"Garces Dr & Bucareli Dr",37.7159799,-122.4814699
+14917,"Garces Dr & Gonzalez Dr",37.71585,-122.4783199
+14918,"Garces Dr & Grijalva Dr",37.71501,-122.4801
+14937,"Hahn St & Sunnydale Ave",37.7120099,-122.4159
+14938,"Hahn St & Sunnydale Ave",37.71203,-122.4160499
+14940,"Haight St & Baker St",37.77093,-122.4402599
+14941,"Haight St & Buchanan St",37.7726099,-122.42706
+14942,"Haight St & Buchanan St",37.77243,-122.4273199
+14943,"Haight St & Buena Vista East Ave",37.77075,-122.4405499
+14944,"Haight St & Buena Vista West Ave",37.7704399,-122.44295
+14945,"Haight St & Central Ave",37.7705099,-122.44355
+14950,"Haight St & Divisadero St",37.77129,-122.4373699
+14951,"Haight St & Divisadero St",37.7712299,-122.43674
+14952,"Haight St & Fillmore St",37.7721399,-122.43076
+14953,"Haight St & Fillmore St",37.7720699,-122.4302
+14954,"Haight St & Gough St",37.7731799,-122.42255
+14955,"Haight St & Laguna St",37.77276,-122.4258399
+14958,"Haight St & Masonic Ave",37.7701699,-122.44515
+14959,"Haight St & Octavia St",37.7729699,-122.42419
+14960,"Haight St & Pierce St",37.7717799,-122.43364
+14961,"Haight St & Pierce St",37.77161,-122.4338499
+14966,"Harrison St & 2nd St",37.78419,-122.3954499
+14967,"Harrison St & 3rd St",37.7824399,-122.39768
+14968,"Harrison St & 4th St",37.7806699,-122.39991
+14969,"Harrison St & 5th St",37.7789099,-122.40214
+14970,"Harrison St & 6th St",37.77715,-122.4043599
+14971,"Harrison St & 7th St",37.7754999,-122.40644
+14972,"Harrison St & 8th St",37.7738699,-122.40851
+14973,"Harrison St & 9th St",37.7724,-122.4103699
+15041,"Hudson Ave & 3rd St",37.7403399,-122.38863
+15056,"Howard St & Main St",37.7904099,-122.39352
+15057,"Howard St & Spear St",37.7913999,-122.39253
+15118,"Irving St & 2nd Ave",37.7644399,-122.45864
+15119,"Irving St & 4th Ave",37.7643,-122.4608199
+15120,"Irving St & 4th Ave",37.76423,-122.4610599
+15121,"Irving St & 7th Ave",37.76416,-122.4640299
+15122,"Irving St & 7th Ave",37.7640899,-122.46428
+15123,"Irving St & 9th Ave",37.7641099,-122.46616
+15124,"Irving St & Arguello Blvd",37.7643699,-122.45802
+15138,"Ocean Ave & Junipero Serra Blvd",37.7313599,-122.47167
+15139,"Junipero Serra Blvd & Ocean Ave",37.7312399,-122.47186
+15141,"Junipero Serra & Sloat Blvd",37.73431,-122.4716699
+15142,"Jackson St & Baker St",37.79128,-122.4443599
+15143,"Jackson St & Baker St",37.7911899,-122.44425
+15144,"Jackson St & Buchanan St",37.7929699,-122.4312
+15145,"Jackson St & Divisadero St",37.79172,-122.4408899
+15146,"Jackson St & Divisadero St",37.79157,-122.4413099
+15147,"Jackson St & Fillmore St",37.7925299,-122.43468
+15148,"Jackson St & Franklin St",37.7938099,-122.4246
+15149,"Jackson St & Gough St",37.7935799,-122.42621
+15155,"Jackson St & Laguna St",37.7931499,-122.4295
+15156,"Jackson St & Mason St",37.7954499,-122.41171
+15157,"Jackson St & Octavia St",37.79336,-122.4278599
+15159,"Jackson St & Presidio Ave",37.7909,-122.4473599
+15160,"Jackson St & Scott St",37.7919299,-122.43924
+15161,"Jackson St & Scott St",37.7917699,-122.43961
+15162,"Jackson St & Steiner St",37.79235,-122.4361099
+15163,"Jackson St & Steiner St",37.7921999,-122.43632
+15166,"Jackson St & Van Ness Ave",37.7939599,-122.42337
+15170,"Juan Bautista Cir & Font Blvd",37.71869,-122.4784299
+15174,"Jefferson St & Powell St",37.8085899,-122.41336
+15175,"Jefferson St & Taylor St",37.8083199,-122.41551
+15184,"Jones St & Beach St",37.8072499,-122.41737
+15189,"Judah St & 5th Ave",37.7623,-122.4619999
+15190,"Judah St & 6th Ave",37.7623999,-122.4628499
+15191,"Judah St & 7th Ave",37.76233,-122.4643499
+15192,"Judah St & 7th Ave",37.7621999,-122.46414
+15193,"Judah St & 9th Ave",37.7622299,-122.46669
+15194,"Judah St & 9th Ave",37.7621399,-122.46631
+15195,"Judah St & 12th Ave",37.76207,-122.4693199
+15196,"Judah St & 12th Ave",37.76199,-122.4695299
+15197,"Judah St & 15th Ave",37.7618499,-122.47278
+15198,"Judah St & 16th Ave",37.76191,-122.4737799
+15199,"Judah St & 19th Ave",37.7617399,-122.47682
+15200,"Judah St & 19th Ave",37.7616599,-122.47719
+15201,"Judah St & 22nd Ave",37.7615299,-122.47985
+15202,"Judah St & 23rd Ave",37.76155,-122.4811599
+15203,"Judah St & 25th Ave",37.7614499,-122.4833
+15204,"Judah St & 25th Ave",37.76137,-122.4835599
+15205,"Judah St & 28th Ave",37.7613099,-122.48651
+15206,"Judah St & 28th Ave",37.76123,-122.4867599
+15207,"Judah St & 31st Ave",37.7611699,-122.48972
+15208,"Judah St & 31st Ave",37.7611099,-122.4895
+15209,"Judah St & 34th Ave",37.7610299,-122.49293
+15210,"Judah St & 34th Ave",37.7609599,-122.4932
+15211,"Judah St & 40th Ave",37.76074,-122.4993599
+15212,"Judah St & 40th Ave",37.7606799,-122.49915
+15213,"Judah St & 43rd Ave",37.7606,-122.5025699
+15214,"Judah St & 43rd Ave",37.7605199,-122.50284
+15215,"Judah St & 46th Ave",37.76049,-122.5058299
+15216,"Judah St & 46th Ave",37.7603899,-122.50606
+15218,"Judah St & 48th Ave",37.7602699,-122.50813
+15219,"Judah St & Funston Ave",37.7620799,-122.47033
+15220,"Judah St & Funston Ave",37.76195,-122.4705699
+15221,"Judah St & La Playa St",37.7603599,-122.50901
+15223,"Judah St & La Playa St",37.7601699,-122.50878
+15224,"Judah St & Sunset Blvd",37.76091,-122.4955599
+15225,"Judah St & Sunset Blvd",37.7608299,-122.49596
+15227,"Kansas St & 23rd St",37.75443,-122.40248
+15228,"Kansas St & 25th St",37.7518899,-122.4022199
+15229,"Kansas St & 26th St",37.75083,-122.40212
+15234,"King St & 2nd St",37.77972,-122.3898699
+15237,"King St & 2nd St",37.77962,-122.3898199
+15239,"King St & 4th St",37.7762099,-122.39423
+15240,"King St & 4th St",37.7760599,-122.39436
+15247,"Forest Hill Station",37.7481599,-122.45894
+15259,"Laguna St & Haight St",37.7729299,-122.42546
+15261,"Legion Of Honor Dr & Clement St",37.78165,-122.49461
+15300,"Lincoln Way & 9th Ave",37.766,-122.4667499
+15301,"Lincoln Way & 9th Ave",37.7658599,-122.46623
+15302,"Lincoln Way & 11th Ave",37.7659,-122.4688899
+15303,"Lincoln Way & 11th Ave",37.76575,-122.4687099
+15304,"Lincoln Way & 15th Ave",37.76572,-122.4732199
+15305,"Lincoln Way & 15th Ave",37.7655599,-122.47305
+15306,"Lincoln Way & 17th Ave",37.76562,-122.4754199
+15307,"Lincoln Way & 17th Ave",37.7654599,-122.47524
+15309,"Lincoln Way & 19th Ave",37.76553,-122.4776099
+15310,"Lincoln Way & 21st Ave",37.7654299,-122.4797
+15311,"Lincoln Way & 21st Ave",37.76529,-122.47949
+15326,"Lincoln Way & Funston Ave",37.76581,-122.4710299
+15327,"Lincoln Way & Funston Ave",37.7656499,-122.47086
+15329,"Lincoln Way & La Playa St",37.76393,-122.50957
+15334,"Main St & Howard St",37.7908399,-122.39358
+15335,"Main St & Mission St",37.7919799,-122.39496
+15336,"Main St & Market St",37.7925299,-122.3956699
+15364,"Mason St & Jackson St",37.7957099,-122.41152
+15384,"McAllister St & Baker St",37.77744,-122.4415199
+15385,"McAllister St & Baker St",37.77731,-122.4418499
+15389,"McAllister St & Divisadero St",37.7778599,-122.43822
+15390,"McAllister St & Divisadero St",37.7777299,-122.43851
+15391,"McAllister St & Fillmore St",37.7786399,-122.43207
+15392,"McAllister St & Fillmore St",37.77862,-122.4313999
+15393,"McAllister St & Gough St",37.7796899,-122.42386
+15394,"McAllister St & Gough St",37.77961,-122.4236899
+15395,"McAllister St & Hyde St",37.7807299,-122.41569
+15396,"McAllister St & Hyde St",37.7806099,-122.41587
+15397,"McAllister St & Larkin St",37.7805099,-122.41741
+15398,"McAllister St & Laguna St",37.7793299,-122.42671
+15399,"McAllister St & Laguna St",37.77919,-122.4269499
+15400,"McAllister St & Pierce St",37.7782699,-122.43493
+15401,"McAllister St & Pierce St",37.77815,-122.4351899
+15404,"McAllister St & Van Ness Ave",37.7800899,-122.42071
+15405,"McAllister St & Van Ness Ave",37.7799899,-122.42014
+15417,"Powell Station Inbound",37.7842,-122.4076899
+15418,"Metro Terminal",37.7208799,-122.44665
+15419,"Van Ness Station Inbound",37.7750699,-122.41919
+15448,"Balboa Park Bart",37.7208999,-122.44666
+15462,"North Point St & Kearny St",37.8073499,-122.4079
+15470,"North Point St & Stockton St",37.8070399,-122.41038
+15471,"North Point St & Stockton St",37.8068799,-122.41059
+15528,"Mission St & 1st St",37.7899199,-122.39749
+15529,"Mission St & 2nd St",37.7877499,-122.40024
+15530,"Mission St & 2nd St",37.78787,-122.3998499
+15531,"Mission St & 3rd St",37.7865099,-122.40157
+15532,"Mission St & 3rd St",37.78597,-122.4024899
+15533,"Mission St & 4th St",37.7846399,-122.40393
+15534,"Mission St & 4th St",37.78436,-122.4045199
+15535,"Mission St & 5th St",37.7825899,-122.40654
+15536,"Mission St & 5th St",37.7827299,-122.40664
+15537,"Mission St & 6th St",37.7811899,-122.40831
+15538,"Mission St & 6th St",37.78075,-122.4090999
+15539,"Mission St & 7th St",37.77897,-122.4113499
+15540,"Mission St & 8th St",37.7772299,-122.41355
+15541,"Mission St & 8th St",37.7777,-122.4127299
+15542,"Mission St & 9th St",37.7764499,-122.41431
+15543,"Mission St & 9th St",37.77594,-122.4151799
+15544,"Mission St & 11th St",37.7742199,-122.41712
+15545,"Mission St & 11th St",37.7743099,-122.41729
+15546,"Mission St & 13th St",37.77047,-122.4197799
+15547,"Mission St & 14th St",37.76862,-122.41993
+15548,"Mission St & 14th St",37.7678,-122.42002
+15549,"Mission St & 15th St",37.76714,-122.41979
+15550,"Mission St & 15th St",37.7661999,-122.4198599
+15551,"Mission St & 16th St",37.7655399,-122.41964
+15552,"Mission St & 16th St",37.7645499,-122.41971
+15553,"Mission St & 18th St",37.7626399,-122.4193499
+15554,"Mission St & 18th St",37.7617599,-122.4194599
+15555,"Mission St & 19th St",37.76066,-122.41917
+15556,"Mission St & 19th St",37.7598,-122.41925
+15557,"Mission St & 20th St",37.7591099,-122.4190199
+15558,"Mission St & 20th St",37.7581699,-122.4190899
+15559,"Mission St & 21st St",37.75751,-122.41887
+15560,"Mission St & 21st St",37.7565899,-122.4189499
+15561,"Mission St & 22nd St",37.7558199,-122.4187099
+15562,"Mission St & 22nd St",37.75517,-122.4188
+15563,"Mission St & 23rd St",37.75428,-122.41856
+15564,"Mission St & 23rd St",37.75343,-122.41863
+15565,"Mission St & 24th St",37.7527299,-122.41841
+15566,"Mission St & 24th St",37.7519599,-122.41853
+15567,"Mission St & 26th St",37.7495099,-122.4181
+15568,"Mission St & 26th St",37.74857,-122.4181799
+15569,"Mission St & 29th St",37.7442899,-122.42064
+15570,"Mission St & 29th St",37.74381,-122.4211299
+15571,"Mission St & 30th St",37.7424399,-122.42182
+15572,"Mission St & 30th St",37.7424399,-122.422
+15573,"4080 Mission St",37.73217,-122.4279999
+15574,"Mission St & Acton St",37.7088899,-122.4522
+15575,"Mission St & Allison St",37.71448,-122.4426399
+15577,"Mission St & Appleton Ave",37.73887,-122.42387
+15578,"Mission St & Appleton Ave",37.73899,-122.4240399
+15579,"Mission St & Beale St",37.79114,-122.3959199
+15580,"Mission St & Bosworth St",37.73334,-122.4268199
+15582,"Mission St & Brazil Ave",37.72454,-122.4348099
+15583,"Mission St & Cortland Ave",37.74105,-122.4227599
+15584,"Mission St & Cortland Ave",37.7411299,-122.42284
+15585,"Mission St & Evergreen St",37.70741,-122.4565299
+15586,"Mission St & Excelsior Ave",37.7263599,-122.43351
+15587,"Mission St & Fair Ave",37.74592,-122.4195899
+15588,"Mission St & Flournoy St",37.70682,-122.45906
+15589,"Mission St & Foote Ave",37.7128499,-122.44462
+15590,"Mission St & Francis St",37.7263499,-122.43365
+15591,"Mission St & Fremont St",37.7901499,-122.39695
+15592,"Mission St & Geneva Ave",37.7164599,-122.44115
+15593,"Mission St & Geneva Ave",37.7166399,-122.44078
+15594,"Mission St & Goethe St",37.7073599,-122.45708
+15595,"Mission St & Guttenberg St",37.7125099,-122.44475
+15596,"Mission St & Highland Ave",37.7374499,-122.42396
+15597,"Mission St & Highland Ave",37.7370599,-122.4242
+15598,"Mission St & Italy Ave",37.7191499,-122.43909
+15599,"Mission St & Italy Ave",37.7186499,-122.43926
+15600,"Mission St & Lawrence Ave",37.7094999,-122.45087
+15601,"Mission St & Lowell St",37.71172,-122.4456899
+15602,"Mission St & Lowell St",37.71147,-122.4465299
+15603,"Mission St & Main St",37.7919699,-122.39493
+15604,"Mission St & Mt Vernon Ave",37.7146999,-122.44265
+15605,"Mission St & Murray St",37.73404,-122.4259199
+15607,"Mission St & Norton St",37.72431,-122.4351899
+15608,"Mission St & Oliver St",37.7096199,-122.45006
+15609,"Mission St & Onondaga Ave",37.72128,-122.4374799
+15610,"Mission St & Persia Ave",37.72338,-122.4356799
+15611,"Mission St & Precita Ave",37.74711,-122.4188199
+15612,"Mission St & Precita Ave",37.74694,-122.4190999
+15613,"Mission St & Richland Ave",37.7359099,-122.42442
+15614,"Mission St & Richland Ave",37.73562,-122.4246999
+15615,"Mission St & Russia Ave",37.7214699,-122.43712
+15616,"Mission St & Ruth St",37.7228099,-122.43633
+15619,"Mission St & Sickles Ave",37.70866,-122.4533199
+15620,"Mission St & Silver Ave",37.7286199,-122.4313
+15621,"Mission St & Silver Ave",37.7286999,-122.43141
+15623,"Mission St & Spear St",37.79239,-122.3943499
+15624,"Mission St & Trumbull St",37.73066,-122.42927
+15625,"Mission St & Trumbull St",37.73045,-122.4297099
+15626,"Mission St & Valencia St",37.74508,-122.4202999
+15627,"Mission St & Whittier St",37.7104799,-122.44834
+15628,"Mission St & Whittier St",37.71022,-122.4484499
+15638,"Market St & 1st St",37.7908999,-122.39914
+15639,"Market St & 2nd St",37.7893499,-122.40131
+15640,"Market St & 3rd St",37.7875299,-122.40352
+15641,"Market St & 3rd St",37.7877099,-122.40321
+15642,"Market Between 4th & 3rd St",37.7865999,-122.40459
+15643,"Market St & 4th St",37.7856499,-122.40589
+15644,"Market Between 5th & 4th St",37.7848399,-122.40683
+15645,"Market St & 5th St",37.7838899,-122.40814
+15646,"Market Between 5th & 6th St",37.7833999,-122.40866
+15647,"Market St & 6th St",37.7820999,-122.4104
+15648,"Market Between 6th & 7th",37.7812899,-122.41133
+15649,"Market St Bet 7th & 8th St",37.7798099,-122.41319
+15650,"Market St & 7th St",37.7803599,-122.41261
+15651,"Market St & 8th St",37.7786099,-122.41483
+15652,"Market St & 9th St",37.7774099,-122.41634
+15655,"Market St & 5th St North",37.7840799,-122.40799
+15656,"Market St & 7th St North",37.7805699,-122.41244
+15657,"Market St & Battery St",37.7911099,-122.39907
+15658,"Market St & Beale St",37.79257,-122.3970199
+15659,"Market St & Buchanan St",37.76979,-122.4261499
+15661,"Market St & Church St",37.7678299,-122.42863
+15662,"Market St & Church St",37.7672599,-122.42915
+15668,"Market St & Dolores St",37.76888,-122.4270999
+15669,"Market St & Drumm St",37.7934699,-122.39618
+15671,"Market St & Front St",37.7919199,-122.39815
+15672,"Market St & Gough St",37.77327,-122.4217699
+15673,"Market St & Gough St",37.7728799,-122.42199
+15674,"Market St & Grant Ave",37.78639,-122.4051599
+15675,"Market St & Guerrero St",37.7705699,-122.42497
+15676,"Market St & Hyde St",37.7791099,-122.41438
+15678,"Market St & Kearny St",37.78773,-122.4033699
+15679,"Market St & Larkin St",37.77759,-122.4162099
+15680,"Market St & Larkin St",37.7775999,-122.41624
+15681,"Market St & Laguna St",37.77095,-122.4246699
+15682,"Market St & Main St",37.7929799,-122.39663
+15683,"Market St & Mason St",37.7828499,-122.40964
+15684,"Market St & Montgomery St",37.7884899,-122.40248
+15685,"Market St & New Montgomery St",37.7886099,-122.40216
+15686,"Market St & Noe St",37.7644899,-122.43281
+15687,"Market St & Noe St",37.7639599,-122.43332
+15688,"Market St & Powell St",37.7846799,-122.40731
+15689,"Market St & Sansome St",37.7901599,-122.40041
+15690,"Market St & Sanchez St",37.7661899,-122.43071
+15691,"Market St & Sanchez St",37.7656899,-122.43114
+15692,"Market St & South Van Ness Ave",37.7750599,-122.41932
+15693,"Market St & Steuart St",37.7942599,-122.39491
+15694,"Market St & Stockton St",37.7858599,-122.40574
+15695,"Market St & Taylor St",37.78232,-122.4102299
+15696,"Market St & Van Ness Ave",37.7752399,-122.41918
+15704,"Masonic Ave & Frederick St",37.7675099,-122.4448499
+15711,"Masonic Ave & Haight St",37.77009,-122.4454099
+15726,"Church St Station Inbound",37.7671899,-122.42917
+15727,"Civic Center Station Inbound",37.77854,-122.4148099
+15728,"Castro Station Inbound",37.7626199,-122.43523
+15730,"Forest Hill Station Inbound",37.7483499,-122.45862
+15731,"Montgomery Station Inbound",37.7887,-122.4019199
+15741,"Noriega St & 25th Ave",37.75404,-122.4827699
+15742,"Noriega St & 25th Ave",37.75388,-122.4830099
+15744,"Noriega St & 27th Ave",37.75378,-122.4851699
+15745,"Noriega St & 28th Ave",37.7539,-122.4859899
+15746,"Noriega St & 29th Ave",37.7536899,-122.48731
+15747,"Noriega St & 31st Ave",37.7537499,-122.4892
+15748,"Noriega St & 31st Ave",37.75359,-122.4894499
+15751,"Noriega St & 34th Ave",37.7536199,-122.49243
+15752,"Noriega St & 34th Ave",37.7534599,-122.49265
+15753,"Noriega St & 38th Ave",37.7534299,-122.49672
+15754,"Noriega St & 39th Ave",37.7532199,-122.49801
+15755,"Noriega St & 40th Ave",37.7533299,-122.49885
+15756,"Noriega St & 41st Ave",37.7531299,-122.50017
+15757,"Noriega St & 42nd Ave",37.75324,-122.5009999
+15758,"Noriega St & 43rd Ave",37.7530299,-122.50231
+15759,"Noriega St & 44th Ave",37.75312,-122.5035699
+15760,"Noriega St & 45th Ave",37.75294,-122.5044499
+15761,"Noriega St & 46th Ave",37.7530299,-122.50571
+15762,"Noriega St & 46th Ave",37.75289,-122.5055699
+15763,"Noriega St & 48th Ave",37.7529299,-122.50785
+15764,"Noriega St & Sunset Blvd",37.7534899,-122.49506
+15765,"Noriega St & Sunset Blvd",37.7533299,-122.49542
+15772,"Oak St & Franklin St",37.77506,-122.4219499
+15779,"Ocean Ave & Aptos Ave",37.7282899,-122.4675599
+15780,"Ocean Ave & Aptos Ave",37.7283799,-122.4678699
+15784,"City College Pedestrian Bridge",37.7230399,-122.45145
+15785,"City College Pedestrian Bridge",37.72295,-122.4508699
+15786,"Ocean Ave & Cerritos Ave",37.7272499,-122.4667599
+15787,"Ocean Ave & Dorado Ter",37.7249599,-122.4610599
+15788,"Ocean Ave & Fairfield Way",37.7260099,-122.4640699
+15793,"Ocean Ave & Jules Ave",37.7249599,-122.4613899
+15794,"Ocean Ave & Lee St",37.7234599,-122.4539999
+15795,"Ocean Ave & Lee St",37.7234499,-122.4542199
+15797,"Ocean Ave & Miramar Ave",37.72439,-122.45808
+15798,"Ocean Ave & Miramar Ave",37.7242599,-122.4583099
+15806,"Ocean Ave & San Leandro Way",37.7299899,-122.4690999
+15807,"Ocean Ave & San Leandro Way",37.72995,-122.4694699
+15808,"Ocean Ave & Victoria St",37.72603,-122.46434
+15809,"Ocean Ave & Westgate Dr",37.7271999,-122.4664799
+15825,"Orizaba Ave & Broad St",37.7133299,-122.4625799
+15826,"Ortega St & 9th Ave",37.75278,-122.46563
+15827,"Ortega St & 10th Ave",37.7528899,-122.4664799
+15828,"Ortega St & 48th Ave",37.7509299,-122.50751
+15835,"150 Otis St",37.77073,-122.42031
+15836,"Otis St & 12th St",37.7728099,-122.41917
+15837,"Pacific Ave & Grant Ave",37.7969799,-122.40673
+15838,"Pacific Ave & Hyde St",37.79555,-122.4181999
+15839,"Pacific Ave & Hyde St",37.79538,-122.4183899
+15840,"Pacific Ave & Jones St",37.7959599,-122.41491
+15841,"Pacific Ave & Jones St",37.7957899,-122.4151
+15842,"Pacific Ave & Kearny St",37.7971699,-122.40522
+15843,"Pacific Ave & Larkin St",37.7953299,-122.41986
+15844,"Pacific Ave & Larkin St",37.79515,-122.4200299
+15845,"Pacific Ave & Leavenworth St",37.7957599,-122.41655
+15846,"Pacific Ave & Leavenworth St",37.79559,-122.4167399
+15847,"Pacific Ave & Mason St",37.79638,-122.4116199
+15848,"Pacific Ave & Mason St",37.79621,-122.4118099
+15849,"Pacific Ave & Montgomery St",37.7973899,-122.40358
+15850,"Pacific Ave & Polk St",37.7951099,-122.42148
+15851,"Pacific Ave & Polk St",37.795,-122.4212499
+15852,"Pacific Ave & Powell St",37.7965599,-122.40999
+15853,"Pacific Ave & Powell St",37.7964099,-122.41017
+15854,"Pacific Ave & Sansome St",37.7975399,-122.4023699
+15856,"Pacific Ave & Taylor St",37.7961699,-122.41327
+15857,"Pacific Ave & Taylor St",37.7959999,-122.41346
+15858,"Pacific Ave & Van Ness Ave",37.7948999,-122.42313
+15859,"Pacific Ave & Van Ness Ave",37.7947799,-122.4229
+15860,"Page St & Franklin St",37.77419,-122.4209599
+15863,"Palou Ave & 3rd St",37.7340199,-122.39082
+15885,"Parnassus Ave & 4th Ave",37.7627299,-122.46074
+15887,"500 Parnassus Ave",37.7633099,-122.45875
+15889,"Parnassus Ave & Cole St",37.7649099,-122.45008
+15890,"Parnassus Ave & Cole St",37.76479,-122.4498499
+15891,"Parnassus Ave & Hillway Ave",37.7638099,-122.45697
+15892,"Parnassus Ave & Hillway Ave",37.7637199,-122.45674
+15893,"Parnassus Ave & Shrader St",37.76477,-122.4510999
+15894,"Parnassus Ave & Shrader St",37.7646,-122.4512999
+15895,"Parnassus Ave & Stanyan St",37.7645499,-122.45288
+15896,"Parnassus Ave & Stanyan St",37.7644299,-122.45265
+15897,"Parnassus Ave & Willard St",37.76435,-122.4545299
+15898,"Parnassus Ave & Willard St",37.7642399,-122.4543
+15926,"Phelan Loop",37.7234699,-122.45265
+15942,"Pine St & Davis St",37.7925399,-122.39772
+15944,"Pine St & Montgomery St",37.7919699,-122.40245
+16016,"Post St & Larkin St",37.7870499,-122.41772
+16017,"Post St & Leavenworth St",37.78745,-122.4145899
+16018,"Post St & Laguna St",37.78577,-122.42767
+16019,"Post St & Montgomery St",37.78901,-122.4023799
+16020,"Post St & Octavia St",37.7859099,-122.42665
+16021,"Post St & Polk St",37.7867999,-122.41956
+16022,"Post St & Powell St",37.7882999,-122.40793
+16023,"Post St & Taylor St",37.7878799,-122.41132
+16024,"Post St & Van Ness Ave",37.7865799,-122.42145
+16026,"Potrero Ave & 16th St",37.7660299,-122.40747
+16027,"Potrero Ave & 16th St",37.7656999,-122.40765
+16028,"Potrero Ave & 17th St",37.76474,-122.40735
+16029,"Potrero Ave & 17th St",37.7642299,-122.4075399
+16030,"Potrero Ave & 18th St",37.7618499,-122.4070499
+16031,"Potrero Ave & 18th St",37.76164,-122.40729
+16032,"Potrero Ave & 20th St",37.7596199,-122.4068399
+16033,"Potrero Ave & 20th St",37.7590799,-122.4070499
+16034,"Potrero Ave & 21st St",37.7574899,-122.4068999
+16035,"Potrero Ave & 22nd St",37.75719,-122.4066
+16036,"Potrero Ave & 22nd St",37.7558799,-122.4067499
+16037,"Potrero Ave & 23rd St",37.75399,-122.40657
+16038,"Potrero Ave & 24th St",37.7532499,-122.40627
+16039,"Potrero Ave & 24th St",37.7526799,-122.40644
+16040,"Potrero Ave & 25th St",37.75164,-122.40608
+16041,"Potrero Ave & 25th St",37.7512599,-122.4063399
+16043,"Potrero Ave & Alameda St",37.76844,-122.4079199
+16045,"Powell St & Bay St",37.8057399,-122.4118299
+16054,"Powell St & Filbert St",37.80123,-122.41112
+16055,"Powell St & Francisco St",37.80496,-122.41188
+16056,"Powell St & Francisco St",37.80481,-122.41165
+16060,"Powell St & Lombard St",37.8029499,-122.4112699
+16061,"Powell St & Lombard St",37.80277,-122.41143
+16066,"Powell St & North Point St",37.8064999,-122.4121799
+16089,"Presidio Ave & California St",37.7873699,-122.44688
+16090,"Presidio Ave & Clay St",37.7891799,-122.4472599
+16091,"Presidio Ave & Clay St",37.78897,-122.44704
+16095,"Presidio Ave & Jackson St",37.79071,-122.4474
+16096,"Presidio Ave & Pine St",37.78624,-122.44653
+16097,"Presidio Ave & Pine St",37.7863299,-122.4467599
+16098,"Presidio Ave & Sutter St",37.78454,-122.4462
+16119,"Sf General Hospital",37.7554099,-122.4064699
+16124,"Post St & Gough St",37.7861199,-122.42498
+16125,"Post St & Grant Ave",37.78855,-122.4059899
+16126,"Post St & Hyde St",37.7872399,-122.41626
+16127,"Post St & Jones St",37.7876499,-122.41295
+16135,"Quintara St & 12th Ave",37.74904,-122.4683699
+16136,"Quintara St & 12th Ave",37.7488699,-122.46856
+16168,"Quintara St & Cragmont Ave",37.7490899,-122.46768
+16169,"Quintara St & Cragmont Ave",37.74898,-122.4670499
+16170,"Quintara St & Funston Ave",37.7489899,-122.46942
+16171,"Quintara St & Funston Ave",37.74883,-122.46964
+16172,"Randolph St & Arch St",37.7143399,-122.46698
+16173,"Randolph St & Arch St",37.7142,-122.46722
+16174,"Randolph St & Bright St",37.7143499,-122.46339
+16175,"Randolph St & Bright St",37.7142399,-122.46361
+16187,"Rhode Island St & 15th St",37.7674699,-122.4029099
+16188,"Rhode Island St & 15th St",37.7673199,-122.4027299
+16189,"Rhode Island St & 16th St",37.7663199,-122.40263
+16190,"Rhode Island St & 16th St",37.76616,-122.4028
+16191,"Rhode Island St & 17th St",37.7648699,-122.4026699
+16198,"Rhode Island St & 24th St",37.75339,-122.40157
+16199,"Rhode Island St & 25th St",37.7521099,-122.4014699
+16200,"Rhode Island St & 26th St",37.75073,-122.40134
+16201,"Rhode Island St & Alameda St",37.76874,-122.40304
+16202,"Rhode Island St & Alameda St",37.76857,-122.40284
+16213,"Right Of Way & 18th St",37.7611899,-122.4281799
+16214,"Right Of Way & 20th St",37.7582599,-122.4279199
+16215,"Right Of Way & 20th St",37.7582299,-122.42779
+16216,"Right Of Way & 21st St",37.7566399,-122.4269199
+16217,"Right Of Way & 21st St",37.7564399,-122.42682
+16218,"Church St & 22nd St",37.7546099,-122.4277499
+16219,"Right Of Way & Eucalyptus Dr",37.7311899,-122.47435
+16220,"Right Of Way & Eucalyptus Dr",37.7309899,-122.47437
+16221,"Right Of Way & Liberty St",37.75745,-122.427
+16222,"Right Of Way & Liberty St",37.7572399,-122.42687
+16223,"Ocean Ave & Right Of Way",37.73202,-122.4737199
+16224,"Ocean Ave & Right Of Way",37.7318099,-122.47381
+16257,"San Jose Ave & Farallones St",37.7141499,-122.45215
+16259,"San Jose Ave & Farallones St",37.7140699,-122.45208
+16262,"San Jose Ave & Geneva Ave",37.7204599,-122.44689
+16265,"San Jose Ave & Lakeview Ave",37.7162599,-122.45033
+16266,"San Jose Ave & Lakeview Ave",37.71608,-122.4504299
+16268,"San Jose Ave & Mt Vernon Ave",37.71828,-122.4485899
+16269,"San Jose Ave & Niagara Ave",37.7193999,-122.44762
