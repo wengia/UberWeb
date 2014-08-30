@@ -2,7 +2,7 @@ Project: departure times
 Technocal Track: Back-end
 
 Link to Host (Amazon EC2): http://54.68.5.97:8080/UberWeb
-Link to my GitHub:
+Link to my GitHub: https://github.com/wengia/UberWeb
 
 Reason:
 My expertise mainly lies on C++ and Java. I don’t know much about front end languages like Javascript and CSS. I have experience in developing Android Apps and simple Web App. Among all these projects, my passion was on building the back-end API.
